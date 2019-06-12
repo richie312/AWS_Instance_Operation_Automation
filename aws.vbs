@@ -1,0 +1,1 @@
+MsgBox("AWS Cost file is going to run and if threshold values are crossed, then the instances will be stopped")

@@ -1,0 +1,135 @@
+2019-05-21: ec2 instance total hour consumption is still less than 20% 
+2019-05-21: db2 instance total hour consumption is still less than 90% 
+2019-05-21: ec2 instance total hour consumption is still less than 20% 
+2019-05-21: db2 instance total hour consumption is still less than 90% 
+2019-05-21: ec2 instance total hour consumption is still less than 20% 
+2019-05-21: db2 instance total hour consumption is still less than 90% 
+2019-05-21 16:01:01: ec2 instance total hour consumption is still less than 20% 
+2019-05-21 16:01:01: db2 instance total hour consumption is still less than 90% 
+2019-05-22 05:47:32: ec2 instance total hour consumption is still less than 20% 
+2019-05-22 05:47:32: db2 instance total hour consumption is still less than 90% 
+2019-05-22 19:04:27: ec2 instance total hour consumption is still less than 20% 
+2019-05-22 19:04:27: db2 instance total hour consumption is still less than 90% 
+2019-05-25 06:35:26: ec2 instance stopped. 
+2019-05-25 06:35:26: db2 instance total hour consumption is still less than 90% 
+2019-05-25 08:23:52: The total cost as of now is Rs 24.04 
+2019-05-25 08:39:56: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 08:39:56: db2 instance total hour consumption is still less than 90% 
+2019-05-25 08:39:56: The total cost as of now is Rs 28.18 
+2019-05-25 08:43:19: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 08:43:19: db2 instance total hour consumption is still less than 90% 
+2019-05-25 08:43:19: The total cost as of now is Rs 28.18 
+2019-05-25 09:24:18: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 09:24:18: db2 instance total hour consumption is still less than 90% 
+2019-05-25 09:24:18: The total cost as of now is Rs 28.18 
+2019-05-25 09:25:44: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 09:25:44: db2 instance total hour consumption is still less than 90% 
+2019-05-25 09:25:44: The total cost as of now is Rs 28.18 
+2019-05-25 09:33:57: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 09:33:57: db2 instance total hour consumption is still less than 90% 
+2019-05-25 09:33:57: The total cost as of now is Rs 28.18 
+2019-05-25 09:46:52: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 09:46:52: db2 instance total hour consumption is still less than 90% 
+2019-05-25 09:46:52: The total cost as of now is Rs 28.18 
+2019-05-25 09:53:48: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 09:53:48: db2 instance total hour consumption is still less than 90% 
+2019-05-25 09:53:48: The total cost as of now is Rs 28.18 
+2019-05-25 09:54:25: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 09:54:25: db2 instance total hour consumption is still less than 90% 
+2019-05-25 09:54:25: The total cost as of now is Rs 28.18 
+2019-05-25 09:56:12: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 09:56:12: db2 instance total hour consumption is still less than 90% 
+2019-05-25 09:56:12: The total cost as of now is Rs 28.18 
+2019-05-25 09:57:04: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 09:57:04: db2 instance total hour consumption is still less than 90% 
+2019-05-25 09:57:04: The total cost as of now is Rs 28.18 
+2019-05-25 12:33:42: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:33:42: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:33:42: The total cost as of now is Rs 28.18 
+2019-05-25 12:38:28: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:38:28: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:38:28: The total cost as of now is Rs 28.18 
+2019-05-25 12:39:43: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:39:43: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:39:43: The total cost as of now is Rs 28.18 
+2019-05-25 12:41:08: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:41:08: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:41:08: The total cost as of now is Rs 28.18 
+2019-05-25 12:42:09: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:42:09: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:42:09: The total cost as of now is Rs 28.18 
+2019-05-25 12:42:58: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:42:58: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:42:58: The total cost as of now is Rs 28.18 
+2019-05-25 12:43:10: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:43:10: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:43:10: The total cost as of now is Rs 28.18 
+2019-05-25 12:44:30: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:44:30: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:44:30: The total cost as of now is Rs 28.18 
+2019-05-25 12:47:14: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:47:14: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:47:14: The total cost as of now is Rs 28.18 
+2019-05-25 12:55:11: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:55:11: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:55:11: The total cost as of now is Rs 28.18 
+2019-05-25 12:55:57: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 12:55:57: db2 instance total hour consumption is still less than 90% 
+2019-05-25 12:55:57: The total cost as of now is Rs 28.18 
+2019-05-25 13:06:50: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 13:06:50: db2 instance total hour consumption is still less than 90% 
+2019-05-25 13:06:50: The total cost as of now is Rs 28.18 
+2019-05-25 13:08:02: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 13:08:02: db2 instance total hour consumption is still less than 90% 
+2019-05-25 13:08:02: The total cost as of now is Rs 28.18 
+2019-05-25 13:08:45: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 13:08:45: db2 instance total hour consumption is still less than 90% 
+2019-05-25 13:08:45: The total cost as of now is Rs 28.18 
+2019-05-25 13:09:36: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 13:09:36: db2 instance total hour consumption is still less than 90% 
+2019-05-25 13:09:36: The total cost as of now is Rs 28.18 
+2019-05-25 13:10:12: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 13:10:12: db2 instance total hour consumption is still less than 90% 
+2019-05-25 13:10:12: The total cost as of now is Rs 28.18 
+2019-05-25 13:10:40: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 13:10:40: db2 instance total hour consumption is still less than 90% 
+2019-05-25 13:10:40: The total cost as of now is Rs 28.18 
+2019-05-25 14:10:17: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 14:10:17: db2 instance total hour consumption is still less than 90% 
+2019-05-25 14:10:17: The total cost as of now is Rs 28.18 
+2019-05-25 14:13:07: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 14:13:07: db2 instance total hour consumption is still less than 90% 
+2019-05-25 14:13:07: The total cost as of now is Rs 28.18 
+2019-05-25 19:25:27: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 19:25:28: db2 instance total hour consumption is still less than 90% 
+2019-05-25 19:25:28: The total cost as of now is Rs 28.18 
+2019-05-25 19:45:34: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 19:46:26: The total cost as of now is Rs 61.0070169242 
+2019-05-25 19:47:12: The total number of API request is 61.0070169242 
+2019-05-25 19:52:53: ec2 instance total hour consumption is still less than 20% 
+2019-05-25 19:52:53: db2 instance total hour consumption is still less than 90% 
+2019-05-25 19:52:53: The total cost for AWS till this moment is 50.56 
+2019-05-26 09:25:52: ec2 instance total hour consumption is still less than 20% 
+2019-05-26 09:25:52: db2 instance total hour consumption is still less than 90% 
+2019-05-26 09:25:52: The total cost for AWS till this moment is 82.88 
+2019-05-27 09:28:39: ec2 instance total hour consumption is still less than 20% 
+2019-05-27 09:28:39: db2 instance total hour consumption is still less than 90% 
+2019-05-27 09:28:39: The total cost for AWS till this moment is 57.28 
+2019-05-27 09:29:56: ec2 instance total hour consumption is still less than 20% 
+2019-05-27 09:29:56: db2 instance total hour consumption is still less than 90% 
+2019-05-27 09:29:56: The total cost for AWS till this moment is 57.28 
+2019-05-27 10:08:09: ec2 instance total hour consumption is still less than 20% 
+2019-05-27 10:08:09: db2 instance total hour consumption is still less than 90% 
+2019-05-27 10:08:09: The total cost for AWS till this moment is 57.28 
+2019-05-27 11:41:58: ec2 instance total hour consumption is still less than 20% 
+2019-05-27 11:41:58: db2 instance total hour consumption is still less than 90% 
+2019-05-27 11:41:58: The total cost for AWS till this moment is 57.28 
+2019-05-28 08:55:25: ec2 instance total hour consumption is 85.18 
+2019-05-28 08:55:25: db2 instance total hour consumption is 36.53 
+2019-05-28 08:55:25: The total cost for AWS till this moment is 62.94 
+2019-05-29 09:27:05: ec2 instance total hour consumption is 38.93 
+2019-05-29 09:27:05: db2 instance total hour consumption is 87.58 
+2019-05-29 09:27:05: The total cost for AWS till this moment is 66.47 
+2019-05-29 09:28:27: ec2 instance total hour consumption is 38.93 
+2019-05-29 09:28:27: db2 instance total hour consumption is 87.58 
+2019-05-29 09:28:27: The total cost for AWS till this moment is 66.47 
