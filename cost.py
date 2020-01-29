@@ -107,7 +107,7 @@ with open('cost_log.txt', 'a+') as log_note:
     log_note.write("{}: The total cost for AWS till this moment is {} \r\n".format(datetime.now().strftime('%Y-%m-%d %H:%M:%S'),total_cost))
 
 import yagmail
-password='Anahata@123'
+password='Anahata@123' ### Password is changed now and cryptography is used on the user credentials.
 yagmail.register("richie.chatterjee31@gmail.com", password)
 yag = yagmail.SMTP("richie.chatterjee31@gmail.com", password)
 html_msg = ["{}: The total cost as of now is Rs {} \r\n".format(datetime.now().strftime('%Y-%m-%d %H:%M:%S'),total_cost),
